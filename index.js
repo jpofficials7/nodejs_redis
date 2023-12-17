@@ -38,3 +38,5 @@ app.get('/posts/:id', async (req, res) => {
 app.listen(8080, () => {
   console.log('Hey, now listening on port :8080');
 });
+
+// Testing the ssh configuration
